@@ -16,9 +16,27 @@
 
 TikScroller is an open-source browser extension to add snapping scroll to Tiktok web videos.
 
-<hr>
+# Chrome Installation
+
+Extensions installed as unpacked aren't updated automatically. To update the extension you should download it and click reload in the browser extension management page.
+
+## Download
+
+Go to the releases and download "ChromeExtension.zip". Extract it to a directory of your choosing. Choose somewhere you are okay with leaving it (you cannot delete it while it is installed).
+
+## Install the extension
+
+1. Open the "Extensions" page (chrome://extensions/) in the browser and turn on the "Developer mode".
+
+2. Click on the "Load unpacked" button and select the directory you extracted the zip to.
+
+![Load unpacked button](https://camo.githubusercontent.com/52ad903185ee381cf30ed2934d0e7d12d791c920c77131617233ad17303cb35f/68747470733a2f2f692e696d6775722e636f6d2f786463686451612e706e67)
 
 ### Credit
+
+Instructions taken from https://github.com/web-scrobbler/web-scrobbler/wiki/Install-an-unpacked-extension
+
+# Credit
 
 Icons made by:
 * <a href="https://www.flaticon.com/free-icons/scroll-down" title="scroll down icons">Scroll down icons created by Smashicons - Flaticon</a>
