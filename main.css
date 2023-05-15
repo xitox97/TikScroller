@@ -1,0 +1,11 @@
+html {
+    scroll-snap-type: mandatory;
+	scroll-snap-points-y: repeat(3rem);
+	scroll-snap-type: y mandatory;
+    scroll-behavior: smooth;
+  }
+
+div[class*="tiktok-"][class*="-DivItemContainer"] {
+    padding-top: 5rem;
+	scroll-snap-align: start;
+  }
