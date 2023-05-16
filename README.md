@@ -7,8 +7,7 @@
 
 <p align="center">
   <b>Download:</b>
-  <a href="#">Chrome/Chromium</a> |
-  <a href="#">Firefox</a>
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/tikscroller/">Firefox</a>
 </p>
 <p align="center">
 <a href='https://ko-fi.com/I2I1DLOSS' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
